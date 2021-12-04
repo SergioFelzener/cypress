@@ -1,0 +1,14 @@
+##  Git Ignore files and folders  ##
+####################################
+
+/node_modules
+.env
+.env.backup
+
+## More files update this file .gitignore ##
+############################################
+
+## by Sergio Felzener ##
+## Version beta 0.0.1 ##
+########################
+
